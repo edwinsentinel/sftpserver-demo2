@@ -11,3 +11,4 @@ This architecture can be implemented using Terraform by defining two AWS Lambda 
 
 
 
+Next try the two demos on azure
